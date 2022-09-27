@@ -2,7 +2,8 @@
   <img src="SpamX/RiZoeLX.png" alt="RiZoeLXSpam Logo">
 </p>
 <h1 align="center">
-  <GOURAV</b>
+  </b>
+ GOURAV</b>
 </h1>
 
 ----
