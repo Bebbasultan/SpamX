@@ -28,7 +28,7 @@
 > The easy way to host this bot, deploy to Heroku 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RiZoeLX/SpamX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https:https://te.legra.ph/file/85e6e6018dec26b6dedda.jpg)
 
 <h4> Local Hosting </h4>
 
